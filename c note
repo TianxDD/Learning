@@ -1,0 +1,1 @@
+1. EOF的值一般等于-1 while(scanf("%d",&n)) 与 while(scanf("%d",&n) != EOF) 含义不同
